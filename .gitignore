@@ -1,1 +1,4 @@
 node_modules
+
+#Ignore Repositories Json
+repositories/*.json
